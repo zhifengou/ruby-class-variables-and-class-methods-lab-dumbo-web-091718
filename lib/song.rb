@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Song
   attr_accessor:name,:artist,:genre
   @@artists=[]
@@ -35,3 +36,6 @@ end
     @@count+=1
   end
 end
+=======
+class Song
+>>>>>>> bce838b518b6268eaf5ec46c91d8990507dcdbbb
